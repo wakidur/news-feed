@@ -1,0 +1,97 @@
+@font-face {
+  font-family:"Segoe UI";
+  font-style:normal;
+  font-weight:normal;
+  src:local("Segoe UI"),url(../fonts/Segoe-UI-Semilight.woff) format('woff'),url(../fonts/segoeuii.ttf) format('truetype');
+}
+
+@font-face {
+  font-family:"ps_g";
+  font-style:normal;
+  font-weight:normal;
+  src:url(../fonts/2c7b9e.woff) format('woff'),url(//static-hp-wus.s-msn.com/sc/a1/21a8a7.ttf) format('truetype');
+}
+body, button, input, select, textarea {
+    font-size: 1.5rem;
+    line-height: 1.467;
+    font-family: "Segoe UI","Segoe WP",Arial,Sans-Serif;
+}
+.brick {
+	background-color: white;
+	float: left;
+	cursor: default;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+/* {     
+      width: 305px;
+      height: auto;
+}*/
+.size22 {
+    width: 300px;
+    height: auto;
+}
+.size22 .thumbnail {
+   padding: 0px;
+   margin-bottom: 0px;
+   border: 0px;
+   border-radius: 0;
+}
+.size22 .caption-info{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.brick {
+    /* background: white; */
+    /* box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.33); */
+    /* border-radius: 3px; */
+    color: #333;
+    border: none;
+}
+.ellipsis-text {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.caption-info h4.new-title{
+    font-size: 22px;
+    line-height: 24px;
+    color: #333;
+    height: 24px;
+    position: relative;
+    font-weight: normal;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    top: -0.6rem;
+}
+.caption-info h4.new-title{
+        overflow: hidden;
+}
+
+.caption-info .text-title-type{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    line-height: 1.467;
+    max-height: 4.7rem;
+    overflow: hidden;
+    color: #000;
+}
+.caption-info .text-info-news{
+    font-size: 1.4rem;
+    line-height: 1.384;
+    max-height: 4.0rem;
+    overflow: hidden;
+    color: #666;
+    display: block;
+    margin-top: .6rem;
+}
+.caption-info .text-protext-primary{
+    font-family: "Segoe UI Semibold","Segoe WP Semibold","Segoe WP","Segoe UI",Arial,Sans-Serif;
+    font-size: 1.1rem;
+    line-height: 1.364;
+    color: #666;
+}
