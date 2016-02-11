@@ -27,5 +27,5 @@ $(function(){
             maxItems : 5,
             atutoFirst : true
         });
-        awesompleteCall.list = ["World", "NEWS " , "Russia", "WEATHER ", "SPORTS ","ENTERTAINMENT ", "SPORTS","MONEY","plugings","min height", "example","HEALTH & FITNESS","FOOD & DRINK","TRAVEL","Headlines","US","World","Crime","Opinion","Local","Technology","Offbeat","Weekend","Video","","","","","","","","","","","","","","","","","",];
+    awesompleteCall.list = ["World", "NEWS " , "Russia", "WEATHER ", "SPORTS ","ENTERTAINMENT ", "SPORTS","MONEY","plugings","min height", "example","HEALTH & FITNESS","FOOD & DRINK","TRAVEL","Headlines","US","World","Crime","Opinion","Local","Technology","Offbeat","Weekend","Video","","","","","","","","","","","","","","","","","",];
 });

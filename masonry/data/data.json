@@ -4,8 +4,8 @@
 			"id" : 1,
 			"link" : "www.google.com",
 			"imageName" : "01",
-			"imageCaption" :"Don't look now",
-			"type" :"markets",
+			"imageCaption" :"Gasoline prices may soon dip below",
+			"type" :"US",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -16,12 +16,286 @@
 			"link" : "www.google.com",
 			"imageName" : "02",
 			"imageCaption" :"Don't look now",
-			"type" :"markets",
+			"type" :"TV",
 			"heading" : "gas may be close",
 			"shortinfo" : " gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
 
-		}
+		},
+		{
+			"id" : 2,
+			"link" : "www.google.com",
+			"imageName" : "03",
+			"imageCaption" :"Don't look now",
+			"type" :"Markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
 
+		},
+		{
+			"id" : 3,
+			"link" : "www.google.com",
+			"imageName" : "04",
+			"imageCaption" :"Don't look now",
+			"type" :"Money",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 4,
+			"link" : "www.google.com",
+			"imageName" : "05",
+			"imageCaption" :"Don't look now",
+			"type" :"Suggested",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 5,
+			"link" : "www.google.com",
+			"imageName" : "06",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 6,
+			"link" : "www.google.com",
+			"imageName" : "07",
+			"imageCaption" :"Don't look now",
+			"type" :"Autos",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 7,
+			"link" : "www.google.com",
+			"imageName" : "07",
+			"imageCaption" :"Don't look now",
+			"type" :"Music",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 8,
+			"link" : "www.google.com",
+			"imageName" : "08",
+			"imageCaption" :"Don't look now",
+			"type" :"World",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 9,
+			"link" : "www.google.com",
+			"imageName" : "09",
+			"imageCaption" :"Don't look now",
+			"type" :"Sponsored",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 10,
+			"link" : "www.google.com",
+			"imageName" : "10",
+			"imageCaption" :"randomised words which don't look even slightly",
+			"type" :"Lifestyle",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 7,
+			"link" : "www.google.com",
+			"imageName" : "11",
+			"imageCaption" :"Don't look now",
+			"type" :"Sports",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 12,
+			"link" : "www.google.com",
+			"imageName" : "12",
+			"imageCaption" :"anything embarrassing hidden",
+			"type" :"Food & Drink",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 13,
+			"link" : "www.google.com",
+			"imageName" : "13",
+			"imageCaption" :"Gasoline prices may soon dip below",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 14,
+			"link" : "www.google.com",
+			"imageName" : "14",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 15,
+			"link" : "www.google.com",
+			"imageName" : "15",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 16,
+			"link" : "www.google.com",
+			"imageName" : "16",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},{
+			"id" : 17,
+			"link" : "www.google.com",
+			"imageName" : "17",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 18,
+			"link" : "www.google.com",
+			"imageName" : "18",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 19,
+			"link" : "www.google.com",
+			"imageName" : "19",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 20,
+			"link" : "www.google.com",
+			"imageName" : "21",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 22,
+			"link" : "www.google.com",
+			"imageName" : "22",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 23,
+			"link" : "www.google.com",
+			"imageName" : "24",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 25,
+			"link" : "www.google.com",
+			"imageName" : "25",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged..",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 26,
+			"link" : "www.google.com",
+			"imageName" : "27",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. .",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 28,
+			"link" : "www.google.com",
+			"imageName" : "28",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 29,
+			"link" : "www.google.com",
+			"imageName" : "29",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..",
+			"date" : "2 hrs ago"
+
+		}
+		
 	] 
 }

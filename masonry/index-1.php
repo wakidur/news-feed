@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="css/bootstrap.css"/>
 	      <link rel="stylesheet" href="css/font-awesome.min.css"/>
         <link rel="stylesheet" href="css/awesomplete.css"/>
-	      <link rel="stylesheet" href="css/custom.css"/>
+	      <link rel="stylesheet" href="css/style.css"/>
 	    <style type="text/css">
 	
 	    </style>
@@ -48,7 +48,7 @@
           <form class="">
               <div class="input-group input-group-lg custome-search-input" >              
                 <span class="input-group-addon" id="sizing-addon1"><i class="fa fa-search-plus"></i></span>
-                <input id="shortSearchList" type="search" class="form-control" placeholder="Username" aria-describedby="sizing-addon1">
+                <input id="shortSearchList" type="search" class="form-control" placeholder="search your hot news" aria-describedby="sizing-addon1" autofocus>
               </div>
               <button type="submit" class="btn btn-default btn-lg custom-submit"><i class="fa fa-arrow-right"></i></button>
         </form>
@@ -59,25 +59,7 @@
   <div class="container-fluid">
     <div class="row">                
       <div id="masonary">
-          <div class="grid-sizer"></div>
-           <!-- <div class="size22">
-                    <article class="thumbnail">
-                        <figure>
-                            <img src="images/07.jpg" alt="The Pulpit Rock" class="img-responsive">
-                          <figcaption>Fig.1 - A view of the pulpit rock in Norway.</figcaption>
-                        </figure>
-                        <div class="caption-info">
-                            <p class="text-title-type ellipsis-text">
-                                <ins>This line of text is meant to be treated as an addition to the document.</ins>
-                            </p>
-                            <h4 class="new-title ellipsis-text">A coastal town’s long and stormy relationship with El Nino </h4>
-                           <p class="text-info-news">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. I</p>
-                        </div> 
-                    </article>
-                </div>
-            </div>      -->
-                
-                
+          <div class="grid-sizer"></div>      
       </div>
     </div>
   </div>
