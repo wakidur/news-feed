@@ -1,0 +1,27 @@
+{
+	"news-feet" : [
+		{
+			"id" : 1,
+			"link" : "www.google.com",
+			"imageName" : "01",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "Don't look now: $1 gas may be close",
+			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		},
+		{
+			"id" : 2,
+			"link" : "www.google.com",
+			"imageName" : "02",
+			"imageCaption" :"Don't look now",
+			"type" :"markets",
+			"heading" : "gas may be close",
+			"shortinfo" : " gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
+			"date" : "2 hrs ago"
+
+		}
+
+	] 
+}
