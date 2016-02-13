@@ -12,7 +12,7 @@
 		        <p class="text-title-type ellipsis-text">
 		            <ins>{{type}}</ins>
 		        </p>
-		        <h4 class="new-title ellipsis-text">{{heading}}</h4>
+		        <h4 class="new-title ">{{heading}}</h4>
 		       <p class="text-info-news">{{shortinfo}}</p>
 		       <p class="text-protext-primary">{{date}}</p>
 		    </div> 

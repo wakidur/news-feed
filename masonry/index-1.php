@@ -57,9 +57,147 @@
   </section>
     
   <div class="container-fluid">
-    <div class="row">                
+    <div class="">                
       <div id="masonary">
-          <div class="grid-sizer"></div>      
+          <div class="grid-sizer"></div> 
+          <div class="size22 newCatosol newCatosol-height2">
+                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                          <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <li data-target="#myCarousel" data-slide-to="3"></li>
+                            <li data-target="#myCarousel" data-slide-to="4"></li>
+                            <li data-target="#myCarousel" data-slide-to="5"></li>
+                            <li data-target="#myCarousel" data-slide-to="6"></li>
+                            <li data-target="#myCarousel" data-slide-to="7"></li>
+                            <li data-target="#myCarousel" data-slide-to="8"></li>
+                            <li data-target="#myCarousel" data-slide-to="9"></li>
+                            <li data-target="#myCarousel" data-slide-to="10"></li>
+                            <li data-target="#myCarousel" data-slide-to="11"></li>
+
+                          </ol>
+                          <div class="carousel-inner" role="listbox">
+                            <div class="item active">
+                              <img class="first-slide" src="images/carousel/01.jpg" alt="First slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Get the latest BBC World News: international news, features and analysis from Africa, </h1>
+                                  <p class="ellipsis-text">World : BBC News - BBC.com </p>
+                                  
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <img class="second-slide" src="images/carousel/02.jpg" alt="Second slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Example headline. Example headline</h1>
+                                  <p class="ellipsis-text">Sports: If you're viewing this page via </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <img class="third-slide" src="images/carousel/03.jpg" alt="Third slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Example headline. Example headline</h1>
+                                  <p class="ellipsis-text">Environment: If you're viewing this page via </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <img class="third-slide" src="images/carousel/04.jpg" alt="Third slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Example headline. Example headline</h1>
+                                  <p class="ellipsis-text">Environment: If you're viewing this page via </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <img class="third-slide" src="images/carousel/05.jpg" alt="Third slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Example headline. Example headline</h1>
+                                  <p class="ellipsis-text">Environment: If you're viewing this page via </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <img class="third-slide" src="images/carousel/06.jpg" alt="Third slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Example headline. Example headline</h1>
+                                  <p class="ellipsis-text">Environment: If you're viewing this page via </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <img class="third-slide" src="images/carousel/07.jpg" alt="Third slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Example headline. Example headline</h1>
+                                  <p class="ellipsis-text">Environment: If you're viewing this page via </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <img class="third-slide" src="images/carousel/08.jpg" alt="Third slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Example headline. Example headline</h1>
+                                  <p class="ellipsis-text">Environment: If you're viewing this page via </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <img class="third-slide" src="images/carousel/09.jpg" alt="Third slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Example headline. Example headline</h1>
+                                  <p class="ellipsis-text">Environment: If you're viewing this page via </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <img class="third-slide" src="images/carousel/10.jpg" alt="Third slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Example headline. Example headline</h1>
+                                  <p class="ellipsis-text">Environment: If you're viewing this page via </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <img class="third-slide" src="images/carousel/11.jpg" alt="Third slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Example headline. Example headline</h1>
+                                  <p class="ellipsis-text">Environment: If you're viewing this page via </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <img class="third-slide" src="images/carousel/12.jpg" alt="Third slide">
+                              <div class="container">
+                                <div class="carousel-caption">
+                                  <h1 class="ellipsis-text">Example headline. Example headline</h1>
+                                  <p class="ellipsis-text">Environment: If you're viewing this page via </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                          </a>
+                        </div>
+                </div>     
       </div>
     </div>
   </div>
