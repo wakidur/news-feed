@@ -57,7 +57,7 @@
   </section>
     
   <div class="container-fluid">
-    <div class="row">                
+    <div class="">                
       <div id="masonary">
           <div class="grid-sizer"></div>      
       </div>
