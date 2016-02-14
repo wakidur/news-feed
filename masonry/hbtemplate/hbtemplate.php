@@ -1,6 +1,6 @@
 <script id="hb-news-feet" type="text/x-handlebars-template">
     {{#each news-feet}}
-    <div class="size22">
+    <div class="size22 hvr-grow-shadow">
 	    <article id="{{id}}" class="thumbnail">
 		    <figure class="hover-effect">
 		      <a href="{{link}}" alt="{{imageCaption}}">
@@ -14,7 +14,7 @@
 		        </p>
 		        <h4 class="new-title ">{{heading}}</h4>
 		       <p class="text-info-news">{{shortinfo}}</p>
-		       <p class="text-protext-primary">{{date}}</p>
+		       <p class="text-protext-primary"><i class="fa fa-clock-o"></i> {{date}}</p>
 		    </div> 
 		</article>
 	</div>
