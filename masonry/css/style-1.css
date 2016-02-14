@@ -48,7 +48,6 @@ body{
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.25);
 }
 .newCatosol { 
-  width: 610px;
   border: 3px solid #FFF;
 
 }
@@ -79,31 +78,31 @@ body{
   height: 368px;
 }
 
-.size22 .carousel-control.right {
+.topHeadline .carousel-control.right {
     background-image: none;  
 }
-.size22 .carousel-control.left {
+.topHeadline .carousel-control.left {
     background-image: none;
 }
-.size22 .carousel-control .icon-next, 
-.size22 .carousel-control .glyphicon-chevron-right {
-    right: 16%;
+.topHeadline .carousel-control .icon-next, 
+.topHeadline .carousel-control .glyphicon-chevron-right {
+    right: 17%;
     height: 50px;
     background-color: #29272A;
     line-height: 48px;
 }
-.size22 .carousel-control .icon-prev, 
-.size22 .carousel-control .glyphicon-chevron-left {
-    left: 16%;
+.topHeadline .carousel-control .icon-prev, 
+.topHeadline .carousel-control .glyphicon-chevron-left {
+    left: 17%;
     height: 50px;
     background-color: #29272A;
     line-height: 48px;
 }
 @media screen and (min-width: 768px){
-  .size22  .carousel-indicators {
+  .topHeadline  .carousel-indicators {
       bottom: 10px;
   }
-  .size22 .carousel-caption {
+  .topHeadline .carousel-caption {
     right: 1%;
     left: 1%;
     padding-bottom: 20px;
@@ -113,6 +112,55 @@ body{
     text-shadow: none;
   }
 }
+
+.topHeadline{
+  margin-top: 200px;
+  margin-bottom: 20px;
+}
+.custome-height{
+  height: 182px;
+}
+.custome-height.thumbnail{
+  padding: 0px;
+  border-radius: 0px;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.custome-height.thumbnail .caption {
+  position: absolute;
+    left: 0;
+    bottom: 0px;
+    padding: 5px 15px;
+    color: #FFF;
+    width: 100%;
+}
+.thumbnail.custome-height img{
+  max-height: 180px;
+}
+
+.thumbnail-caption-custome{
+  background: -webkit-linear-gradient(bottom,rgba(0,0,0,.95) 0,rgba(0,0,0,0) 100%);
+    background: linear-gradient(0deg,rgba(0,0,0,.95) 0,rgba(0,0,0,0) 100%);
+}
+.thumbnail-caption-custome h3{
+  line-height: 18px;
+    font-size: 16px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+.thumbnail-caption-custome p{
+  line-height: 16px;
+    font-size: 14px;
+    
+    margin-bottom: 0px;
+}
+
+
+
+
+
+
 .ellipsis-text {
   width: 100%;
   white-space: nowrap;
@@ -153,11 +201,48 @@ body{
 .caption-info .text-protext-primary{
     font-family: "Segoe UI Semibold","Segoe WP Semibold","Segoe WP","Segoe UI",Arial,Sans-Serif;
     font-size: 1.1rem;
-    line-height: 1.364;
-    color: #130102;;
+    line-height: 20px;
+    padding-top: 8px;
+    color: #130102;
+    border-top: 1px solid #ccc;
 }
 
 /*---------------News feet works----------*/
+/*#masonary{
+  margin-top: 200px;
+}*/
+
+
+.search-section {
+    position: fixed;
+    top: 50px;
+    left: 0;
+    width: 100%;
+    background: transparent;
+    color: #fff;
+    z-index: 1000;
+    height: 134px;
+    overflow: hidden;
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    
+
+}
+.search-section.shrink {
+    height: 50px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgba(218,218,218,0.70);
+}
+
+
+
+
+
 .hover-effect{
   position: relative;
 
@@ -194,11 +279,11 @@ body{
    
 }
 
-.search-section{
+/*.search-section{
   margin-top: 100px;
   max-height: 70px;
   margin-bottom: 45px;
-}
+}*/
 .custom-submit{
     position: absolute;
     top: 0px;
@@ -244,4 +329,73 @@ body{
     outline: 0;
     -webkit-box-shadow: inset 0 0px 0px rgb(33, 37, 40), 0 0 0px rgb(33, 37, 40);
     box-shadow: inset 0 0px 0px rgb(33, 37, 40), 0 0 0px rgb(33, 37, 40);
+}
+
+
+
+/*----------------Top bar design Start---------------*/
+.custom-header .navbar-brand{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.facebook-color{
+  color: #3b5998 !important;
+}
+.facebook-color:hover {
+    color: #fff !important;
+}
+.twitter-color{
+  color: #55acee !important;
+}
+.twitter-color:hover{
+  color: #fff !important;
+}
+.linkedin-color{
+  color: #007bb6 !important;
+}
+.linkedin-color:hover{
+  color: #fff !important;
+}
+.youtube-color{
+  color: #b00 !important;
+}
+.youtube-color:hover{
+  color: #fff !important;
+}
+.facebook-color.hvr-bounce-to-bottom:before {
+    background: #3C5899; 
+}
+.twitter-color.hvr-bounce-to-bottom:before {
+   
+    background: #2CAAE1;
+    
+   
+}
+.linkedin-color.hvr-bounce-to-bottom:before {
+   
+    background: #0177B5;
+    
+   
+}
+.youtube-color.hvr-bounce-to-bottom:before {
+   
+    background: #E32C28;
+    
+   
+}
+
+.navbar-custom-list .hvr-overline-from-center:before {
+    
+    background: #1E90FF;
+    height: 2px;
+   
+}
+/*----------------Top bar design Start end---------------*/
+
+/*------------Hover effect css --------------*/
+.size22.hvr-grow-shadow:active, 
+.size22.hvr-grow-shadow:focus,
+.size22.hvr-grow-shadow:hover {
+    z-index: 999;
+    
 }
