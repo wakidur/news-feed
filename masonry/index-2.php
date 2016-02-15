@@ -26,7 +26,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#"><img src="images/log.png" class="img-responsive"></a>
+          <a id="home" class="navbar-brand" href="#"><img src="images/log.png" class="img-responsive"></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-custom-list">
@@ -300,6 +300,7 @@
           
     </div>
   </div>
+  <div class="toTop"><a href="#" class="scrollToTop"><i class="fa fa-arrow-up"></i></a></div>
 
 
     <!-- ========================JavaScritp Library collection ============= -->
@@ -325,7 +326,46 @@
             return window.pageYOffset || document.documentElement.scrollTop;
             }
         });
+        // $(function(){
+        //  var shrinkHeader = 300;
+        //   $(window).scroll(function() {
+        //     var scroll = getCurrentScroll();
+        //       if ( scroll >= shrinkHeader ) {
+        //            $('.toTop').addClass('toView');
+        //         }
+        //         else {
+        //             $('.toTop').removeClass('toView');
+        //         }
+        //   });
+        // function getCurrentScroll() {
+        //     return window.pageYOffset || document.documentElement.scrollTop;
+        //     }
+        // });
 
+
+        
+    
+       $(document).ready(function(){
+  
+          //Check to see if the window is top if not then display button
+          $(window).scroll(function(){
+            if ( $(this).scrollTop() >= 300 ) {
+              $('.toTop').addClass('toView').fadeIn();
+            } else {
+              $('.toTop').removeClass('toView').fadeOut();
+            }
+          });
+          
+          //Click event to scroll to top
+          $('.toTop').click(function(){
+            $('html, body').animate({
+                scrollTop : 0
+              } , 1000 );
+            return false;
+          });
+          
+        });
+ 
     </script>
     <?php include 'hbtemplate/hbtemplate.php';?>
 </body>

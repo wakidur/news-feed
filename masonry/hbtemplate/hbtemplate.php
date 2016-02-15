@@ -1,11 +1,19 @@
 <script id="hb-news-feet" type="text/x-handlebars-template">
-    {{#each news-feet}}
-    <div class="size22 hvr-grow-shadow">
+    {{#each news-feed}}
+    <div class="size22 hvr-grow-shadow"> 
 	    <article id="{{id}}" class="thumbnail">
 		    <figure class="hover-effect">
 		      <a href="{{link}}" alt="{{imageCaption}}">
 		        <img src="images/{{imageName}}.jpg" alt="{{imageCaption}}" class="img-responsive">
-		        <figcaption class="title">{{imageCaption}}</figcaption>
+		        	{{#ifCond feedType "==" "video"}}
+						<i class="vedio-camera-icon fa fa-play"></i>
+					{{/ifCond}}
+					{{#ifCond feedType "==" "photographer"}}
+						<i class="vedio-camera-icon fa fa-camera"></i>
+					{{/ifCond}}
+		    	<figcaption class="title ellipsis-text">	
+					{{imageCaption}}
+				</figcaption>
 		      </a>
 		    </figure>
 		    <div class="caption-info">

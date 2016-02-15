@@ -1,0 +1,143 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 15, 2016, 2:19:22 PM
+    Author     : wakidur
+*/
+.innerMain-contain{
+    margin-top: 180px;
+}
+.image-size{
+    width: 40px;
+    height: 40px;
+    margin-right: 16px;
+}
+.w-40 {
+    width: 40px;
+    height: 40px;
+}
+.w-41 {
+    width: 88px;
+    height: 88px;
+}
+.m-r {
+    margin-right: 16px;
+}
+.pull-left {
+    float: left!important;
+}
+.w-full {
+    width: 100%;
+}
+.text-ellipsis {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.clear {
+    display: block;
+    overflow: hidden;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+    outline: 0;
+}
+.text-muted-dk {
+    color: inherit;
+    opacity: .5;
+}
+
+.most-popular-list .list-group-item{
+    height: 110px;
+}
+.social-network-list .list-group-item:first-child, .corrospondents .list-group-item:first-child{
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.social-network-list .list-group-item:last-child ,:last-child{
+    margin-bottom: 0;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.social-network-list .list-group-item{
+    margin-left: 45px;
+    margin-bottom: 5px;
+    margin-right: 45px;
+    cursor: pointer;
+    color: #fff;
+    
+}
+.profider-of-new{
+    margin-top: 30px;
+}
+.profider-of-new p{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+}
+.headlin-full{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: 600;
+}
+
+.profile-info{
+    margin-bottom: 20px;
+}
+
+.corrospondents .list-group-item{
+    border-left: 0px;
+    background-color: transparent;
+    border-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.facebook-color-inner{
+  background-color: #3b5998 !important;
+}
+.facebook-color:hover {
+     background-color: #fff !important;
+}
+.twitter-color-inner{
+   background-color: #55acee !important;
+}
+.twitter-color:hover{
+  color: #fff !important;
+}
+.linkedin-color-inner{
+  background-color: #007bb6 !important;
+}
+.linkedin-color:hover{
+  color: #fff !important;
+}
+.youtube-color-inner{
+   background-color: #b00 !important;
+}
+.youtube-color:hover{
+  color: #fff !important;
+}
