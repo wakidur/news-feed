@@ -209,10 +209,10 @@
          
          <div class="col-xs-6">
            <div class="row">
-             <div class="col-xs-6 ">
+             <div class="col-xs-4">
               <a href="#">
                  <div class="thumbnail custome-height ">
-                    <img class="hvr-bounce-out" src="images/08.jpg" alt="...">
+                    <img class="hvr-bounce-out" src="images/35.jpg" alt="...">
                     <div class="caption thumbnail-caption-custome">
                       <h3 >Thumbnail label</h3>
                       <p>World</p>
@@ -220,10 +220,10 @@
                   </div>
                 </a>
              </div>
-             <div class="col-xs-6 ">
+             <div class="col-xs-4">
               <a href="#">
                  <div class="thumbnail custome-height">
-                    <img class="hvr-bounce-out" src="images/32.jpg" alt="...">
+                    <img class="hvr-bounce-out" src="images/17.jpg" alt="...">
                     <div class="caption thumbnail-caption-custome">
                       <h3 >Thumbnail label</h3>
                       <p>World</p>
@@ -231,7 +231,7 @@
                   </div>
                 </a>
              </div>
-             <div class="col-xs-6 ">
+             <div class="col-xs-4">
               <a href="#">
                  <div class="thumbnail custome-height">
                     <img class="hvr-bounce-out" src="images/33.jpg" alt="...">
@@ -242,7 +242,40 @@
                   </div>
                 </a>
              </div>
-             <div class="col-xs-6 ">
+             <div class="col-xs-4">
+              <a href="#">
+                 <div class="thumbnail custome-height">
+                    <img class="hvr-bounce-out" src="images/13.jpg" alt="...">
+                    <div class="caption thumbnail-caption-custome">
+                      <h3 >Thumbnail label</h3>
+                      <p>World</p>
+                    </div>
+                  </div>
+                </a>
+             </div>
+             <div class="col-xs-4">
+              <a href="#">
+                 <div class="thumbnail custome-height">
+                    <img class="hvr-bounce-out" src="images/03.jpg" alt="...">
+                    <div class="caption thumbnail-caption-custome">
+                      <h3 >Thumbnail label</h3>
+                      <p>World</p>
+                    </div>
+                  </div>
+                </a>
+             </div>
+             <div class="col-xs-4">
+              <a href="#">
+                 <div class="thumbnail custome-height">
+                    <img class="hvr-bounce-out" src="images/02.jpg" alt="...">
+                    <div class="caption thumbnail-caption-custome">
+                      <h3 >Thumbnail label</h3>
+                      <p>World</p>
+                    </div>
+                  </div>
+                </a>
+             </div>
+             <!-- <div class="col-xs-6 ">
               <a href="#">
                  <div class="thumbnail custome-height">
                     <img class="hvr-bounce-out" src="images/34.jpg" alt="...">
@@ -252,7 +285,7 @@
                     </div>
                   </div>
                 </a>
-             </div>
+             </div> -->
            </div>
            
          </div>
