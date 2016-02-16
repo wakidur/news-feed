@@ -62,6 +62,7 @@
         </form>
       </div>
     </div>
+    </div>
   </section>
   <section class="topHeadline">
     <div class="container">
@@ -348,7 +349,7 @@
        $(document).ready(function(){
   
           //Check to see if the window is top if not then display button
-          $(window).scroll(function(){
+          $(window).scroll( function(){
             if ( $(this).scrollTop() >= 300 ) {
               $('.toTop').addClass('toView').fadeIn();
             } else {
