@@ -1,11 +1,12 @@
 {
-	"news-feet" : [
+	"news-feed" : [
 		{
 			"id" : 1,
 			"link" : "www.google.com",
 			"imageName" : "01",
 			"imageCaption" :"Gasoline prices may soon dip below",
 			"type" :"US",
+			"feedType" : "video",
 			"heading" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"shortinfo" : "David Lynch's upcoming new installment of his groundbreaking 1990 supernatural mystery series Twin Peaks for Showtime will feature a lot of familiar faces. As usual, no one is commenting, but I've compiled a list of original cast members believed to be stopping by, appearing with leading man Kyle MacLachlan and retrnning",
 			"date" : "2 hrs ago"
@@ -17,6 +18,7 @@
 			"imageName" : "02",
 			"imageCaption" :"same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"type" :"TV",
+			"feedType" : "photographer",
 			"heading" : "Gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack",
 			"shortinfo" : "Before it debuted, 'The people v. O.J. Simpson: American Crime Story' recreived almost universal advance praise, but there's one element of the grippiong true-crime drama that divide critics: John Travolta's performance. Travolta plays Simpson defense attorney Robert Shapiro, and it's easy to see",
 			"date" : "2 hrs ago"
@@ -28,6 +30,7 @@
 			"imageName" : "03",
 			"imageCaption" :"same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"type" :"Markets",
+			"feedType" : "image",			
 			"heading" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -39,6 +42,7 @@
 			"imageName" : "04",
 			"imageCaption" :"putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine",
 			"type" :"Money",
+			"feedType" : "image",
 			"heading" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -50,6 +54,7 @@
 			"imageName" : "05",
 			"imageCaption" :"Don't look now",
 			"type" :"Suggested",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -61,6 +66,7 @@
 			"imageName" : "06",
 			"imageCaption" :"putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine",
 			"type" :"markets",
+			"feedType" : "image",
 			"heading" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -72,6 +78,7 @@
 			"imageName" : "07",
 			"imageCaption" :"Don't look now",
 			"type" :"Autos",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : " ",
 			"date" : "2 hrs ago"
@@ -94,6 +101,7 @@
 			"imageName" : "08",
 			"imageCaption" :"Don't look now",
 			"type" :"World",
+			"feedType" : "video",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -105,6 +113,7 @@
 			"imageName" : "09",
 			"imageCaption" :"Don't look now",
 			"type" :"Sponsored",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -116,6 +125,7 @@
 			"imageName" : "10",
 			"imageCaption" :"randomised words which don't look even slightly",
 			"type" :"Lifestyle",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
 			"date" : "2 hrs ago"
@@ -127,6 +137,7 @@
 			"imageName" : "11",
 			"imageCaption" :"Don't look now",
 			"type" :"Sports",
+			"feedType" : "image",
 			"heading" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel",
 			"shortinfo" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
 			"date" : "2 hrs ago"
@@ -138,6 +149,7 @@
 			"imageName" : "12",
 			"imageCaption" :"anything embarrassing hidden",
 			"type" :"Food & Drink",
+			"feedType" : "video",
 			"heading" : "Gasoline prices may soon dip below $1 per gallon at some stations",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -160,6 +172,7 @@
 			"imageName" : "14",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "video",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, ",
 			"date" : "2 hrs ago"
@@ -171,6 +184,7 @@
 			"imageName" : "15",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -182,6 +196,7 @@
 			"imageName" : "16",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -203,6 +218,7 @@
 			"imageName" : "18",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "video",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -214,6 +230,7 @@
 			"imageName" : "19",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
 			"date" : "2 hrs ago"
@@ -236,6 +253,7 @@
 			"imageName" : "22",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
 			"date" : "2 hrs ago"
@@ -247,6 +265,7 @@
 			"imageName" : "24",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -258,6 +277,7 @@
 			"imageName" : "25",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "photographer",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged..",
 			"date" : "2 hrs ago"
@@ -269,6 +289,7 @@
 			"imageName" : "27",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. .",
 			"date" : "2 hrs ago"
@@ -280,6 +301,7 @@
 			"imageName" : "28",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "Gasoline prices may soon dip below $1 per gallon at some stations in the Midwest, putting the price of unleaded fuel in the same category as a pack of gum or a bag of pretzels from the vending machine.",
 			"date" : "2 hrs ago"
@@ -291,6 +313,7 @@
 			"imageName" : "29",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "photographer",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..",
 			"date" : "2 hrs ago"
@@ -302,6 +325,7 @@
 			"imageName" : "30",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..",
 			"date" : "2 hrs ago"
@@ -313,6 +337,7 @@
 			"imageName" : "31",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "photographer",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..",
 			"date" : "2 hrs ago"
@@ -324,6 +349,7 @@
 			"imageName" : "32",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..",
 			"date" : "2 hrs ago"
@@ -335,6 +361,7 @@
 			"imageName" : "33",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "image",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..",
 			"date" : "2 hrs ago"
@@ -346,6 +373,7 @@
 			"imageName" : "34",
 			"imageCaption" :"Don't look now",
 			"type" :"markets",
+			"feedType" : "photographer",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..",
 			"date" : "2 hrs ago"
@@ -356,7 +384,8 @@
 			"link" : "www.google.com",
 			"imageName" : "35",
 			"imageCaption" :"Don't look now",
-			"type" :"markets",
+			"type" :"photographer",
+			"feedType" : "photographer",
 			"heading" : "Don't look now: $1 gas may be close",
 			"shortinfo" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..",
 			"date" : "2 hrs ago"
