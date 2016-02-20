@@ -65,8 +65,33 @@
     </div>
   </section>
   <section class="topHeadline">
-    <div class="container">
+    <div class="container-fluid">
       <div class="row"> 
+        <div class="col-xs-2">
+           <div class="row">
+             <div class="col-xs-12">
+              <a href="#">
+                 <div class="thumbnail custome-height " style="background: url('images/35.jpg'); background-repeat: no-repeat; background-size: cover;">
+                    <div class="caption thumbnail-caption-custome">
+                      <h3 >Thumbnail label</h3>
+                      <p>World</p>
+                    </div>
+                  </div>
+                </a>
+             </div>
+            <div class="col-xs-12">
+              <a href="#">
+                 <div class="thumbnail custome-height " style="background: url('images/01.jpg'); background-repeat: no-repeat; background-size: cover;">
+                   
+                    <div class="caption thumbnail-caption-custome">
+                      <h3 >Thumbnail label</h3>
+                      <p>World</p>
+                    </div>
+                  </div>
+                </a>
+             </div>
+           </div>
+        </div>
          <div class="col-xs-6">
            <div class="newCatosol newCatosol-height2">
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -208,12 +233,12 @@
           </div>     
       </div>
          
-         <div class="col-xs-6">
+         <div class="col-xs-4">
            <div class="row">
-             <div class="col-xs-4">
+             <div class="col-xs-6">
               <a href="#">
-                 <div class="thumbnail custome-height ">
-                    <img class="hvr-bounce-out" src="images/35.jpg" alt="...">
+                 <div class="thumbnail custome-height " style="background: url('images/35.jpg'); background-repeat: no-repeat; background-size: cover;">
+                    
                     <div class="caption thumbnail-caption-custome">
                       <h3 >Thumbnail label</h3>
                       <p>World</p>
@@ -221,10 +246,10 @@
                   </div>
                 </a>
              </div>
-             <div class="col-xs-4">
+             <div class="col-xs-6">
               <a href="#">
-                 <div class="thumbnail custome-height">
-                    <img class="hvr-bounce-out" src="images/17.jpg" alt="...">
+                 <div class="thumbnail custome-height" style="background: url('images/17.jpg'); background-repeat: no-repeat; background-size: cover;">
+                   
                     <div class="caption thumbnail-caption-custome">
                       <h3 >Thumbnail label</h3>
                       <p>World</p>
@@ -232,10 +257,10 @@
                   </div>
                 </a>
              </div>
-             <div class="col-xs-4">
+             <div class="col-xs-6">
               <a href="#">
-                 <div class="thumbnail custome-height">
-                    <img class="hvr-bounce-out" src="images/33.jpg" alt="...">
+                 <div class="thumbnail custome-height" style="background: url('images/33.jpg'); background-repeat: no-repeat; background-size: cover;">
+                    
                     <div class="caption thumbnail-caption-custome">
                       <h3 >Thumbnail label</h3>
                       <p>World</p>
@@ -243,10 +268,10 @@
                   </div>
                 </a>
              </div>
-             <div class="col-xs-4">
+             <div class="col-xs-6">
               <a href="#">
-                 <div class="thumbnail custome-height">
-                    <img class="hvr-bounce-out" src="images/13.jpg" alt="...">
+                 <div class="thumbnail custome-height" style="background: url('images/13.jpg'); background-repeat: no-repeat; background-size: cover;">
+                    
                     <div class="caption thumbnail-caption-custome">
                       <h3 >Thumbnail label</h3>
                       <p>World</p>
@@ -254,39 +279,8 @@
                   </div>
                 </a>
              </div>
-             <div class="col-xs-4">
-              <a href="#">
-                 <div class="thumbnail custome-height">
-                    <img class="hvr-bounce-out" src="images/03.jpg" alt="...">
-                    <div class="caption thumbnail-caption-custome">
-                      <h3 >Thumbnail label</h3>
-                      <p>World</p>
-                    </div>
-                  </div>
-                </a>
-             </div>
-             <div class="col-xs-4">
-              <a href="#">
-                 <div class="thumbnail custome-height">
-                    <img class="hvr-bounce-out" src="images/02.jpg" alt="...">
-                    <div class="caption thumbnail-caption-custome">
-                      <h3 >Thumbnail label</h3>
-                      <p>World</p>
-                    </div>
-                  </div>
-                </a>
-             </div>
-             <!-- <div class="col-xs-6 ">
-              <a href="#">
-                 <div class="thumbnail custome-height">
-                    <img class="hvr-bounce-out" src="images/34.jpg" alt="...">
-                    <div class="caption thumbnail-caption-custome">
-                      <h3 >Thumbnail label</h3>
-                      <p>World</p>
-                    </div>
-                  </div>
-                </a>
-             </div> -->
+             
+             
            </div>
            
          </div>
